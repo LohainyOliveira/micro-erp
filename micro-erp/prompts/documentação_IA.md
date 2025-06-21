@@ -8,5 +8,6 @@ As interações com a IA incluíram:
 * Solução de erros relacionados à manipulação dos dados e integração com o banco de dados.
 * Melhoria do código para garantir o funcionamento correto das funcionalidades.
 * insert no banco de dados para testes.
+* Criação do arquivo REAFME.d
 
 Todas as sugestões da IA foram adaptadas e revisadas para atender às necessidades específicas do projeto.

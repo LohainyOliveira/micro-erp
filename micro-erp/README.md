@@ -1,7 +1,3 @@
-Claro! Aqui está uma descrição objetiva e profissional para o seu projeto no GitHub, que você pode usar na seção **README.md**:
-
----
-
 # Micro ERP - Sistema de Gestão Simplificada
 
 Micro ERP é um sistema web desenvolvido em PHP com banco de dados MySQL, voltado para a gestão simplificada de produtos, clientes e emissão de notas fiscais eletrônicas (NFe). O sistema permite controlar o estoque, cadastrar clientes e produtos, e emitir notas fiscais com detalhamento dos itens vendidos, oferecendo uma solução básica e funcional para pequenas empresas.
