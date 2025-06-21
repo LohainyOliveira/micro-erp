@@ -1,0 +1,96 @@
+ body {
+        margin: 0;
+        padding: 0;
+        font-family: 'Segoe UI', sans-serif;
+        background: linear-gradient(135deg, #889bf6, #ade6fb);
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center
+        }
+
+    .cadastro-container {
+      width: 100%;
+      max-width: 450px;
+      padding: 20px;
+    }
+
+    .cadastro-box {
+      background-color: #fff;
+      border-radius: 15px;
+      padding: 30px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    }
+
+    .logo {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    .logo img {
+      max-width: 120px;
+    }
+
+    h2 {
+      text-align: center;
+      color: #2adbfe;
+      margin-bottom: 25px;
+    }
+
+    .input-group {
+      margin-bottom: 15px;
+      position: relative;
+    }
+
+    .input-group label {
+      display: block;
+      font-weight: bold;
+      margin-bottom: 5px;
+      color: #333;
+    }
+
+    .input-group input {
+      width: 100%;
+      padding: 10px;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+    }
+
+    button {
+      width: 100%;
+      padding: 12px;
+      background-color: #2adbfe;
+      color: #fff;
+      border: none;
+      border-radius: 8px;
+      font-size: 1em;
+      cursor: pointer;
+      transition: background 0.3s;
+    }
+
+    button:hover {
+      background-color: #2adbfe;
+    }
+
+    .login-voltar {
+      text-align: center;
+      margin-top: 15px;
+      font-size: 0.9em;
+    }
+
+    .login-voltar a {
+      color: #1E90FF;
+      text-decoration: none;
+    }
+
+    .erro {
+      color: #b70000;
+      margin-top: 15px;
+      text-align: center;
+    }
+
+    .sucesso {
+      color: #0d8a00;
+      margin-top: 15px;
+      text-align: center;
+    }
